@@ -12,5 +12,6 @@ It would be nice of you, if you cite our article as:
     title   = "Hospital Bed Demand Forecasting: A Case Study from Health Industry",
     journal = "POLIBITS",
     year    = "2020",
-    volume  = "61"    
+    volume  = "61",
+    doi     = "https://doi.org/10.17562/PB-61-1"
 }
